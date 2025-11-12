@@ -25,3 +25,12 @@ replay_pid*
 
 # macos Files
 .DS_STORE
+
+# JUnit
+target/
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+.vscode/
