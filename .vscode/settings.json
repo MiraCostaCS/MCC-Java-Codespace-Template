@@ -1,6 +1,0 @@
-{
-    //setting to keep files synced to github (auto commit+push). doesn't work in devcontainer.json file for some reason, so have to keep it here *shrug*
-    "gitdoc.enabled": false, //change to true to auto commit+push!
-    "gitdoc.commitValidationLevel": "none",
-    "git.postCommitCommand": "push", //changes "Commit" button in source control tab to "Commit & Push"
-}

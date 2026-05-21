@@ -1,0 +1,60 @@
+<mxfile host="drawio-plugin" modified="2026-04-09T03:43:50.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="22.1.22" etag="fITLpmdulmePCdOuDwys" type="embed">
+  <diagram id="ip9ZGyopXz-FMx9mUxCw" name="Page-1">
+    <mxGraphModel dx="700" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="57" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="77" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Diet" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="3">
+          <mxGeometry width="60" height="25" relative="1" as="geometry">
+            <mxPoint x="74" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5" value="Home" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="3">
+          <mxGeometry width="60" height="25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="Weight" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="3">
+          <mxGeometry width="60" height="25" relative="1" as="geometry">
+            <mxPoint x="140" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.topButton;rSize=5;strokeColor=#008cff;fillColor=#008cff;gradientColor=none;resizeWidth=1;movable=0;deletable=1;" vertex="1" parent="3">
+          <mxGeometry width="400" height="7" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="HW" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="3">
+          <mxGeometry x="206" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Timer" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="3">
+          <mxGeometry x="275" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Break" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="3">
+          <mxGeometry x="340" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="3">
+          <mxGeometry x="115" y="50" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Welcome&lt;br&gt;&lt;br&gt;Instructions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
+          <mxGeometry x="170" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="logoImageView" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF5252;" vertex="1" parent="3">
+          <mxGeometry x="126" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="VBox" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF5252;" vertex="1" parent="1">
+          <mxGeometry x="50" y="27" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="TabPane" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF5252;" vertex="1" parent="1">
+          <mxGeometry x="70" y="57" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
